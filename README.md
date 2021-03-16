@@ -1,1 +1,2 @@
-# thecoinone.github.io
+# The Coin
+Hello World
