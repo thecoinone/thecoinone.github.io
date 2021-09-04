@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("b-container",{staticClass:"mt--5 position-sticky"},[n("b-card",{attrs:{title:"Who we are?"}},[t._v("On the Mars")])],1)},s=[],o={name:"About"},r=o,c=n("2877"),i=Object(c["a"])(r,a,s,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=about.38beafae.js.map

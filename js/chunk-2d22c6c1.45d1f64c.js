@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c6c1"],{f2ba:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("b-container",{staticClass:"mt--5 position-sticky"},[e("b-card",{attrs:{title:"How to add your ads here?"}},[t._v("Coming Soon...")])],1)},o=[],s={name:"Advertise"},c=s,i=e("2877"),r=Object(i["a"])(c,a,o,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d22c6c1.45d1f64c.js.map
